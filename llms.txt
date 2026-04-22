@@ -32,9 +32,9 @@ Services: 75-minute AI Consulting Sessions ($299), AI On Call monthly advisory (
 - [The $20 AI Stack That Runs a Small Business](https://www.atxailab.com/blog/the-20-dollar-ai-stack-that-runs-a-small-business/)
 - [ChatGPT vs Perplexity vs Google AI Overviews for Local Business](https://www.atxailab.com/blog/chatgpt-vs-perplexity-vs-google-ai-overviews-for-local-business/)
 
-## Sister Site
+## Sister Sites
 
-ATX AI Lab's sister site [WilCo AI Lab](https://www.wilcoailab.com) covers Williamson County — Round Rock, Georgetown, Cedar Park, Leander, Pflugerville, Hutto, Taylor, and Liberty Hill. Same services, same pricing, same founder.
+ATX AI Lab's sister site [WilCo AI Lab](https://www.wilcoailab.com) covers Williamson County — Round Rock, Georgetown, Cedar Park, Leander, Pflugerville, Hutto, Taylor, and Liberty Hill. [SATX AI Lab](https://www.satxailab.com) covers the San Antonio metro — San Antonio, Alamo Heights, Stone Oak, Schertz, Converse, New Braunfels, and Boerne. Same services, same pricing, same founder.
 
 ## Contact
 
