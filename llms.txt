@@ -1,0 +1,43 @@
+# ATX AI Lab
+
+> ATX AI Lab provides hands-on AI training, consulting, and implementation for small businesses across the Austin metro. Founded by TJ Larkin, we serve Austin, South Austin, East Austin, West Austin, Lakeway, Bee Cave, Westlake, and Rollingwood.
+
+## About
+
+ATX AI Lab is led by TJ Larkin, an AI consultant and media operator based in Liberty Hill, Texas. TJ runs a 145,000+ subscriber newsletter network, co-founded lightbreak.ai, and builds with Claude Code, ChatGPT, voice agents, and workflow automation daily.
+
+Services: 75-minute AI Consulting Sessions ($299), AI On Call monthly advisory ($799/month), and on-site team AI training (custom quoted) for businesses across the Austin metro area.
+
+## Key Pages
+
+- [Homepage](https://www.atxailab.com/): Services overview, founder bio, and booking
+- [About TJ Larkin](https://www.atxailab.com/about): Founder background, experience, credentials
+- [Services](https://www.atxailab.com/services): Full breakdown of AI Consulting, AI On Call, On-Site Training
+- [Contact](https://www.atxailab.com/contact): Booking and application
+- [Blog](https://www.atxailab.com/blog): Practical AI articles for local business owners
+
+## City Pages
+
+- [AI Training in Austin](https://www.atxailab.com/ai-training-austin)
+- [AI Training in South Austin](https://www.atxailab.com/ai-training-south-austin)
+- [AI Training in East Austin](https://www.atxailab.com/ai-training-east-austin)
+- [AI Training in West Austin](https://www.atxailab.com/ai-training-west-austin)
+- [AI Training in Lakeway](https://www.atxailab.com/ai-training-lakeway)
+
+## Featured Articles
+
+- [Five Pages Every Local Business Needs for AI Search](https://www.atxailab.com/blog/five-pages-every-local-business-needs-for-ai-search/)
+- [How to Get Found by ChatGPT and AI Search](https://www.atxailab.com/blog/how-to-get-found-by-chatgpt-ai-search/)
+- [AI Voice Agents: Every Missed Call Becomes a Booked Customer](https://www.atxailab.com/blog/ai-voice-agents-missed-calls-booked-customers/)
+- [The $20 AI Stack That Runs a Small Business](https://www.atxailab.com/blog/the-20-dollar-ai-stack-that-runs-a-small-business/)
+- [ChatGPT vs Perplexity vs Google AI Overviews for Local Business](https://www.atxailab.com/blog/chatgpt-vs-perplexity-vs-google-ai-overviews-for-local-business/)
+
+## Sister Site
+
+ATX AI Lab's sister site [WilCo AI Lab](https://www.wilcoailab.com) covers Williamson County — Round Rock, Georgetown, Cedar Park, Leander, Pflugerville, Hutto, Taylor, and Liberty Hill. Same services, same pricing, same founder.
+
+## Contact
+
+- Email: tj@wilcoguide.com
+- Website: https://www.atxailab.com
+- Founder LinkedIn: https://www.linkedin.com/in/tjlarkin
