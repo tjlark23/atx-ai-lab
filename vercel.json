@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    { "source": "/blog/:slug/",                "destination": "https://texasailab.com/articles/:slug/",                "statusCode": 301 },
+    { "source": "/blog/",                       "destination": "https://texasailab.com/articles/",                      "statusCode": 301 },
+    { "source": "/blog",                        "destination": "https://texasailab.com/articles/",                      "statusCode": 301 },
+
+    { "source": "/ai-training-austin/",         "destination": "https://texasailab.com/austin/",                        "statusCode": 301 },
+    { "source": "/ai-training-east-austin/",    "destination": "https://texasailab.com/austin/east-austin/",            "statusCode": 301 },
+    { "source": "/ai-training-lakeway/",        "destination": "https://texasailab.com/austin/lakeway/",                "statusCode": 301 },
+    { "source": "/ai-training-south-austin/",   "destination": "https://texasailab.com/austin/south-austin/",           "statusCode": 301 },
+    { "source": "/ai-training-west-austin/",    "destination": "https://texasailab.com/austin/west-austin/",            "statusCode": 301 },
+
+    { "source": "/author/tj-larkin/",           "destination": "https://texasailab.com/author/tj-larkin/",              "statusCode": 301 },
+    { "source": "/author/",                     "destination": "https://texasailab.com/author/tj-larkin/",              "statusCode": 301 },
+    { "source": "/about/",                      "destination": "https://texasailab.com/about/",                         "statusCode": 301 },
+    { "source": "/contact/",                    "destination": "https://texasailab.com/contact/",                       "statusCode": 301 },
+    { "source": "/services/",                   "destination": "https://texasailab.com/#services",                      "statusCode": 301 },
+    { "source": "/events/",                     "destination": "https://texasailab.com/austin/#events",                 "statusCode": 301 },
+    { "source": "/newsletter/",                 "destination": "https://texasailab.com/contact/",                       "statusCode": 301 },
+
+    { "source": "/",                            "destination": "https://texasailab.com/austin/",                        "statusCode": 301 },
+    { "source": "/:path*",                      "destination": "https://texasailab.com/austin/",                        "statusCode": 301 }
+  ]
+}
